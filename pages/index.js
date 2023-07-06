@@ -134,9 +134,9 @@ export default function Home() {
           <h1 className="text-2xl text-bold">About.</h1>
           <p className="mt-4 text-xl laptop:text-xl w-full laptop:w-3/5">
             Meet your ace in the deck: A seasoned Senior Front End and Full Stack Engineer, with a treasure trove of experience spanning over a decade. My arsenal is loaded with JavaScript, ReactJS, TypeScript, NodeJS, Redux, Solidity, Subgraph, and Flutter, making me a formidable ally in the ever-evolving tech battlefield. <br /><br />
-            But there's more than just coding finesse - my leadership and project management skills are the glue that binds teams together, transforming raw potential into well-oiled machines. I thrive in the startup ecosystem, where I employ my expertise to catapult ideas into reality. <br /><br />
+            But there&apos;s more than just coding finesse - my leadership and project management skills are the glue that binds teams together, transforming raw potential into well-oiled machines. I thrive in the startup ecosystem, where I employ my expertise to catapult ideas into reality. <br /><br />
             Where the digital frontier expands, so does my passion. I am captivated by the boundless possibilities of Web3 and decentralization. And AI? That’s my wildcard. I delve into the depths of artificial intelligence, and as an AI consultant, I wield tools like GPT-4 to supercharge businesses on their quest for excellence. <br /><br />
-            In a world that’s constantly shifting, I'm the steadfast navigator steering the ship through uncharted waters. <br /><br />
+            In a world that’s constantly shifting, I&apos;m the steadfast navigator steering the ship through uncharted waters. <br /><br />
             Ready to set sail towards innovation? Let’s embark on this odyssey together. <br /><br />
           </p>
         </div>
